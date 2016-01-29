@@ -1,0 +1,7 @@
+[client]
+  user=root
+  password=my-secret-pw
+
+[mysqld]
+  tmp_table_size=2G
+  max_heap_table_size=2G
